@@ -1,4 +1,4 @@
-# Frontend Mentor - recipe-page solution
+# Frontend Mentor - Recipe-page solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -7,6 +7,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,7 +27,9 @@ Users should be able to:
 ![desktop-view](https://github.com/SkippoJnr/recipe-page/blob/408161655beaf2b5b5a695cd5692f4e3780b17e9/screenshots/desktop-view.jpeg)
 
 
+### Links
 
+- Live Site URL: [Recipe page](https://skippojnr.github.io/recipe-page/)
 
 
 ## My process
